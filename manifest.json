@@ -1,8 +1,8 @@
 {
-  "name": "Welcome to MIT 502 - Advanced Media and Web Technologies",
-  "short_name": "LSPU CCS",
+  "name": "Gender Equality Awareness Campaign",
+  "short_name": "Gender Empowerment",
   "icons": [{
-    "src": "images/logo-ccs-60.png",
+    "src": "images/logow.png",
       "sizes": "60x60",
       "type": "image/png",
       "purpose": "any maskable"
