@@ -8,18 +8,18 @@
       "purpose": "any maskable"
       
     }, {
-      "src": "images/logo-ccs-90.png",
+      "src": "images/logow.png",
       "sizes": "90x90",
       "type": "image/png",
       "purpose": "any maskable"
     }, {
-      "src": "images/logo-ccs-100.png",
+      "src": "images/logow.png",
       "sizes": "100x100",
       "type": "image/png",
       "purpose": "any maskable"
     }
     , {
-      "src": "images/logo-ccs-512.png",
+      "src": "images/logow.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
